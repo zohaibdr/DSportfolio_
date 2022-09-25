@@ -84,8 +84,7 @@ social-network-links:
 ###########################
 # --- General options --- #
 ###########################
-
-theme: jekyll-theme-basically-basic
+theme:  beautifuljekyll
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
